@@ -1,6 +1,6 @@
 import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.URL;
+        import java.net.HttpURLConnection;
+        import java.net.URL;
 
 public class OneBug {
     public OneBug(String a) throws IOException {
